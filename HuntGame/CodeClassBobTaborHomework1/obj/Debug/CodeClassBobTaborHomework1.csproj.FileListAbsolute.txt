@@ -1,0 +1,9 @@
+c:\users\sugar-bitch\documents\visual studio 2013\Projects\CodeClassBobTaborHomework1\CodeClassBobTaborHomework1\bin\Debug\CodeClassBobTaborHomework1.exe.config
+c:\users\sugar-bitch\documents\visual studio 2013\Projects\CodeClassBobTaborHomework1\CodeClassBobTaborHomework1\bin\Debug\CodeClassBobTaborHomework1.exe
+c:\users\sugar-bitch\documents\visual studio 2013\Projects\CodeClassBobTaborHomework1\CodeClassBobTaborHomework1\bin\Debug\CodeClassBobTaborHomework1.pdb
+c:\users\sugar-bitch\documents\visual studio 2013\Projects\CodeClassBobTaborHomework1\CodeClassBobTaborHomework1\obj\Debug\CodeClassBobTaborHomework1.exe
+c:\users\sugar-bitch\documents\visual studio 2013\Projects\CodeClassBobTaborHomework1\CodeClassBobTaborHomework1\obj\Debug\CodeClassBobTaborHomework1.pdb
+c:\users\sugar-bitch\documents\visual studio 2013\Projects\CodeClassBobTaborHomework1\CodeClassBobTaborHomework1\obj\Debug\CodeClassBobTaborHomework1.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Documents\Visual Studio 2012\Projects\CodeClassBobTaborHomework1\CodeClassBobTaborHomework1\bin\Debug\CodeClassBobTaborHomework1.exe.config
+C:\Users\Johnny\Documents\Visual Studio 2012\Projects\CodeClassBobTaborHomework1\CodeClassBobTaborHomework1\obj\Debug\CodeClassBobTaborHomework1.exe
+C:\Users\Johnny\Documents\Visual Studio 2012\Projects\CodeClassBobTaborHomework1\CodeClassBobTaborHomework1\obj\Debug\CodeClassBobTaborHomework1.pdb
